@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defer",
+				"deferObj"
+			],
+			[
+				"conne",
+				"connectGoogle"
+			],
+			[
+				"get",
+				"getAccountToken"
+			],
+			[
+				"conn",
+				"connectGoogle"
+			],
+			[
+				"close",
+				"closeInterval"
+			],
+			[
+				"to",
+				"tokenAccount"
+			],
+			[
+				"ur",
+				"urlGoogle"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"acc",
+				"accountSettings"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS(DI)"
+			],
+			[
+				"ca",
+				"carousel"
+			],
+			[
+				"indi",
+				"indicadores"
+			],
+			[
+				"caro",
+				"carousel"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"borderradius"
+			],
+			[
+				"construir",
+				"construirHTML"
+			],
+			[
+				"tem",
+				"templateSliderOriginal"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"css",
+				"cssBootStrap"
+			],
+			[
+				"js",
+				"jsBootStrap"
+			],
+			[
+				"car",
+				"carouselIndicators"
+			],
+			[
+				"carousel",
+				"carousel-inner"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"t",
+				"templateSlider"
+			],
+			[
+				"link",
+				"linkTemplateSlider"
+			],
+			[
+				"item",
+				"itemIndicador"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"index",
+				"indexPage"
+			],
+			[
+				"id",
+				"idImgConfig"
+			],
+			[
+				"conte",
+				"conteudoTemplate"
+			],
+			[
+				"te",
+				"templatePopupOriginal"
+			],
+			[
+				"ob",
+				"obj2"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"bos",
+				"boxshadow"
+			],
+			[
+				"lin",
+				"linkURL"
+			],
+			[
+				"max",
+				"maxWidth"
+			],
+			[
+				"iamgem",
+				"imagemURL"
+			],
+			[
+				"tipo",
+				"tipoConteudoPopup"
+			],
+			[
+				"popup",
+				"popupEscolha"
+			],
+			[
+				"confi",
+				"configurarTipo"
+			],
+			[
+				"pop",
+				"popupEscolha"
+			],
+			[
+				"po",
+				"popupEscolha"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"direto",
+				"diretorioLib"
+			],
+			[
+				"img",
+				"imgFolderNome"
+			],
+			[
+				"im",
+				"imgFolderNome"
+			],
+			[
+				"obj",
+				"objSize"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"delete",
+				"deleteFolder"
+			],
+			[
+				"addF",
+				"addFolderToZip"
+			],
+			[
+				"dire",
+				"diretorioDist"
+			],
+			[
+				"html",
+				"htmlPath"
+			],
+			[
+				"scr",
+				"scriptAdicional"
+			],
+			[
+				"s",
+				"scriptJQuery"
+			],
+			[
+				"htm",
+				"htmlPopup"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"pro",
+				"propriedadesDefault"
+			],
+			[
+				"contru",
+				"construirHTML"
+			],
+			[
+				"pr",
+				"propriedade"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"p",
+				"propriedade"
+			],
+			[
+				"CMP",
+				"CMP_Imagem"
+			],
+			[
+				"bod",
+				"bodyIframe"
+			],
+			[
+				"conta",
+				"containerDiv"
+			],
+			[
+				"if",
+				"iframeDoc"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"cer",
+				"createElement"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"_",
+				"_construirVisualPainel"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"div",
+				"divContent"
+			],
+			[
+				"ul",
+				"ulHeader"
+			],
+			[
+				"a",
+				"aHeader"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"nome",
+				"nomeMostrado"
+			],
+			[
+				"Vali",
+				"ValidateScorm"
+			],
+			[
+				"Ver",
+				"VerificarTransicao"
+			],
+			[
+				"ba",
+				"background1"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"para",
+				"paramsIn"
+			],
+			[
+				"params",
+				"paramsOut"
+			],
+			[
+				"bac",
+				"background2"
+			],
+			[
+				"b",
+				"background2"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"yI",
+				"yInitial"
+			],
+			[
+				"map",
+				"map"
+			],
+			[
+				"x",
+				"xTo"
+			],
+			[
+				"com",
+				"combinationFrom"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"bloc",
+				"blocks"
+			],
+			[
+				"y",
+				"yInitial"
+			],
+			[
+				"gr",
+				"gridY"
+			],
+			[
+				"blockC",
+				"blockChangeFrom"
+			],
+			[
+				"blockChange",
+				"blockChangeFrom"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tra",
+				"transicoes"
+			],
+			[
+				"url",
+				"urlPrevious"
+			],
+			[
+				"w",
+				"whereAdd"
+			],
+			[
+				"bad",
+				"background1"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"comb",
+				"combinationFrom"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"line",
+				"lineWidthInitial"
+			],
+			[
+				"lo",
+				"logicGame"
+			],
+			[
+				"diff",
+				"diffX"
+			],
+			[
+				"grid",
+				"gridY"
+			],
+			[
+				"ch",
+				"changeVisual"
+			],
+			[
+				"xI",
+				"xInitialTo"
+			],
+			[
+				"blockG",
+				"blockChangeTo"
+			],
+			[
+				"cha",
+				"changeMap"
+			],
+			[
+				"blockCha",
+				"blockChangeTo"
+			],
+			[
+				"gri",
+				"gridY"
+			],
+			[
+				"block",
+				"blockChangeTo"
+			],
+			[
+				"ti",
+				"tileBlock"
+			],
+			[
+				"grd",
+				"gridY"
+			],
+			[
+				"pa",
+				"pagina"
+			],
+			[
+				"eve",
+				"eventList"
+			],
+			[
+				"opca",
+				"opcaoEscolhida"
+			],
+			[
+				"media",
+				"mediaElement"
+			],
+			[
+				"type",
+				"typeEvent"
+			],
+			[
+				"pl",
+				"playerClickAudio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/AngularJS/connectGoogleWithDeferred.js",
+			"settings":
+			{
+				"buffer_size": 2265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/service/connectGoogle.js",
+			"settings":
+			{
+				"buffer_size": 2161,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"swi",
+				"Set Syntax: Web Inspector (Log)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"web",
+				"Set Syntax: Web Inspector (Log)"
+			]
+		],
+		"width": 546.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/AngularJS/TaskGoogle/index.html",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/service/connectGoogleWithDeferred.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/controller/main.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/service/connectGoogleWithDeferred.js",
+		"/C/wamp/www/AngularJS/Exemplo1/index.html",
+		"/C/wamp/www/AngularJS/Exemplo1/js/service/connectGoogle.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/lib/angular.resource.min.js",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.508/index.php",
+		"/C/wamp/www/AngularJS/Exemplo1/js/app.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/service/connect.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/service/paramsGoogle.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/lib/angular.route.min.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/controller/mainController.js",
+		"/C/wamp/www/AngularJS/Exemplo1/js/controller/connect.js",
+		"/C/wamp/www/AngularJS/Exemplo1/index.hmtl",
+		"/C/Users/felipe.lopes/AppData/Roaming/npm/node_modules/generator-webapp/app/templates/Gruntfile.js",
+		"/C/wamp/www/editor/html/app/components/popup/templatePopup.html",
+		"/C/wamp/www/editor/js/app/components/popup/CMP_Popup.js",
+		"/C/Users/felipe.lopes/.npmrc",
+		"/C/wamp/www/editor/html/app/components/popup/popupConfiguracao.html",
+		"/C/wamp/www/editor/index.html",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/editor/html/app/popup_componentes.html",
+		"/C/wamp/www/HTML5/PlataformaMan/css/style.css",
+		"/C/wamp/www/HTML5/MilharDecimal/app.js",
+		"/C/wamp/www/HTML5/MilharDecimal/index.html",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/Web Inspector/swi.sublime-settings",
+		"/C/wamp/www/editor/js/app/components/slider/CMP_Slider.js",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/swi.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/Web Inspector/Default (Windows).sublime-keymap",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/felipe.lopes/Desktop/teste.scss",
+		"/C/Users/felipe.lopes/Desktop/teste.css",
+		"/C/Users/felipe.lopes/Desktop/teste.sass",
+		"/C/wamp/www/editor/html/app/components/slider/templateSlider.html",
+		"/C/wamp/www/editor/js/app/components/imagem/CMP_Imagem.js",
+		"/C/wamp/www/editor/html/app/components/slider/templatePageConfiguracao.html",
+		"/C/wamp/www/editor/css/bootstrap.css",
+		"/C/wamp/www/editor/css/style.css",
+		"/C/wamp/www/editor/html/app/components/slider/popupConfiguracao.html",
+		"/C/wamp/www/editor/html/app/components/slider/pageConfiguracao.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - 27-02 - M/js/CFS_ContentFramework.js",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/js/CFS_ContentFramework_M.js",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/js/CFS_ContentFramework_h.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - 27-02/js/CFS_ContentFramework.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - 27-02/CFS_controleGeral.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - 27-02/CFS_controleGeralRiz.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/js/CFS_ContentFramework.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/js/CFS_transition.js",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/js/CFS_jquery-1.10.2.min.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/rizoma/CFS_rizoma_00.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/js/CFS_jquery-1.10.2.min.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/js/CFS_jquery-1.10.2.min.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/m_lin/lin_codigos/CFS_lin_codigos_00.html",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/rizoma/CFS_rizoma_00.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/rizoma/CFS_rizoma_01_hum.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/rizoma/CFS_rizoma_00.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/m_lin/lin_disciplinas/CFS_lin_disciplinas_00.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/m_lin/lin_corpo/CFS_lin_corpo_02_01/CFS_lin_corpo_02_01_video.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - H/m_hum/hum_cultura/CFS_hum_cultura_00.html",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/js/CFS_ContentFramework.js",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/m_hum/hum_cultura/CFS_hum_cultura_00.html",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/js/CFS_ContentFramework.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/SEDRS/SEDRS - M/js/CFS_ContentFramework_M.js",
+		"/D/Felipe/PRJ_MSTECH/CentroFormacao/_ProducaoHTML/m_hum/hum_saber/CFS_hum_saber_00.html",
+		"/C/Users/felipe.lopes/.ssh/id_rsa.pub",
+		"/C/wamp/www/editor/js/app/APP_Init.js",
+		"/D/Felipe/PRJ_MSTECH/Moodle/FATEC - D2/d2/aula01/FOP_d02_a01_t02.html",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.401/PIE_uncompressed.htc",
+		"/C/wamp/www/HTML5/DeepComparision/deep.comparision.js",
+		"/C/wamp/www/editor/php/createDist.php",
+		"/C/wamp/www/editor/dist/teste.html",
+		"/C/wamp/www/editor/dist/_page.html",
+		"/C/wamp/www/editor/php/uploadImagem.php",
+		"/C/wamp/www/editor/html/app/components/popup/popup_configuracao.html",
+		"/C/wamp/www/editor/js/com/underscore.min.js",
+		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Imagem.js",
+		"/C/wamp/www/editor/js/app/APP_Utils.js",
+		"/C/wamp/www/ComponentesEditor/Imagem/index.html",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/html/app/popup_componentes.html",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/html/app/menu_opcoes.html",
+		"/C/wamp/www/editor/js/app/APP_Menu.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/html/app/menu_componentes.html",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/js/app/components/imagem/CMP_Imagem.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/js/app/components/popup/CMP_Popup.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê (Versão com atualizações da PHP e JS Base/js/app/APP_Init.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/js/app/components/popup/CMP_Base.js",
+		"/C/wamp/www/editor/js/app/components/imagem/CMP_Base.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/js/app/components/imagem/CMP_Base.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Felipe/Imagem/js/CMP_Imagem.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/php/createDist.php",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/js/app/APP_Init.js",
+		"/D/Felipe/PRJ_MSTECH/BluePad/Editor - Alê/index.html",
+		"/C/wamp/www/ComponentesEditor/Imagem/php/createDist.php",
+		"/C/Users/felipe.lopes/Desktop/Comp/index.html",
+		"/C/wamp/www/_ProducaoHTML/js/CFS_mediaelement-and-player.min.js",
+		"/C/wamp/www/_ProducaoHTML/css/CFS_mediaelementplayer.css",
+		"/C/wamp/www/ComponentesEditor/Imagem/php/uploadImagem.php",
+		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Utils.js",
+		"/C/wamp/www/ComponentesEditor/Imagem/libs/css/PLG_Popup.css",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.011/linuxdoom-1.10/d_main.c",
+		"/C/wamp/www/ComponentesEditor/Imagem/libs/js/PLG_Popup.js",
+		"/C/wamp/www/_ProducaoHTML/m_hum/hum_saber/CFS_hum_saber_estilo.css",
+		"/C/wamp/www/_ProducaoHTML/m_hum/hum_saber/CFS_hum_saber_00.html",
+		"/C/wamp/www/_ProducaoHTML/js/CFS_app.js",
+		"/C/wamp/www/_ProducaoHTML/css/CFS_estilo.css",
+		"/C/Users/felipe.lopes/Desktop/Comp/css/PLG_Popup.css",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.194/index.html",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.048/_page.html",
+		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Base.js",
+		"/C/wamp/www/ComponentesEditor/Imagem/css/styles.css",
+		"/C/wamp/www/ComponentesEditor/Imagem/libs/js/PLG_Popup_Avaliativo.js",
+		"/C/wamp/www/ComponentesEditor/Imagem/dist/index.html",
+		"/C/wamp/www/ComponentesEditor/Imagem/dist/css/PLG_Popup.css",
+		"/C/wamp/www/ComponentesEditor/Imagem/php/uploadImagem.pgp",
+		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_11.html",
+		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_10.html",
+		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_09.html",
+		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_07.html",
+		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_08.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"connectGoogle",
+			";",
+			"white",
+			"popupEscolha.find('.carousel-indicators')",
+			"caro",
+			"options",
+			"control",
+			"carou",
+			"ele",
+			"carousel",
+			"id",
+			"_popup",
+			"this",
+			"js",
+			"this",
+			"utl",
+			"+",
+			"'",
+			"10px",
+			"Link",
+			"propriedades",
+			"_propriedades",
+			"_popup",
+			"_imagem",
+			"_base",
+			"dependencias",
+			"resultadoCSS",
+			"htmlPath",
+			"this",
+			"CFS_hum_saber_05",
+			"});\n",
+			"								\n",
+			"		\n",
+			"console",
+			"$(",
+			"conso",
+			"div[id^='cenarioFundo']",
+			"#cenarioFundo",
+			"iframe",
+			"ifra",
+			"sessionStorage",
+			"item",
+			"initialize",
+			"navigate",
+			"wrapper",
+			"botoes",
+			"button",
+			"png",
+			"hum_sab_obj04_elm01",
+			"fabrica1",
+			"1",
+			"geometry",
+			"params",
+			"PDFPageProxy",
+			"page",
+			"render",
+			"progressCallback",
+			"getDocument",
+			"render",
+			"getPdf",
+			"getPage",
+			"getPdf",
+			"callback",
+			"t",
+			"combinationFrom",
+			"context",
+			"ff4500",
+			"canvas",
+			"countNewBlocks",
+			"combinationFrom",
+			"amount",
+			"countNewBlocks",
+			"3",
+			"Utils",
+			"$.extend(this.objReturn, ",
+			"});",
+			"\n			for (var i = 0, len = this.blocks.length; i < len; i++)\n				if (i == (len - 1))\n					this.blocks[i].explode(callback);\n				else\n					this.blocks[i].explode(callback);\n\n		};",
+			"Utils",
+			"_callback",
+			"objTo",
+			"_duration",
+			"amountY",
+			"navi",
+			"enter",
+			"leave",
+			"iframe",
+			",\n",
+			"navigate",
+			"navigatetoi",
+			"navigate",
+			"this",
+			"transitions",
+			"Number",
+			"number",
+			"getNumber",
+			"inicioTransicao",
+			"navigatetoitem",
+			"item\nitem",
+			"item",
+			"				\n",
+			"raphael",
+			"combinationFrom",
+			"objTo",
+			"objFrom",
+			"&& ",
+			"self",
+			".move(directionFrom);\n				else if (obj == objTo)\n					ob",
+			"theme",
+			"aux",
+			"yInicial",
+			"xInicial",
+			"this",
+			"x",
+			"),",
+			"x",
+			"Bloco",
+			"Block",
+			"cor",
+			"tipo",
+			"combinacao",
+			"QTDE_typeS",
+			"tipo",
+			"TIPO",
+			"tipo",
+			"this.map",
+			"this",
+			"task",
+			"slider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"display"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/AngularJS/connectGoogleWithDeferred.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/service/connectGoogle.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TaskGoogle.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

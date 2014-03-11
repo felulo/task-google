@@ -31,11 +31,12 @@ $taskGoogle.service('connectGoogle', ['$http', function($http){
 	 * Conecta com Google API e retorna o authrorizen token para 
 	 * a possível navegação à API
 	 * 
-	 * @param  {Function} callback -> função a ser executada ao termino da validação do token
+	 * @return {[Object]} -> Retornará uma promise com o valor de sucesso ou falha
 	 */
 	this.connect = function(callback) {
 
 		var login = window.open(URL, 'Google Service API', 'width=500, height=400'),
+			deferObj = $q.defer(),
 			closeInterval;
 
 		closeInterval = window.setInterval(function() {
@@ -53,13 +54,19 @@ $taskGoogle.service('connectGoogle', ['$http', function($http){
 
 						isConnect = true;
 
-						if (callback)
-							callback();
+						deferObj.resolve();
+
+					})
+					.error(function(data, status) {
+
+						deferObj.reject();
 
 					});
 			}
 
 		}, 500);
+
+		return deferObj.promise;
 
 	};
 

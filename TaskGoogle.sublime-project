@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\AngularJS\\TaskGoogle",
+			"folder_exclude_patterns": [".git"],
+			"file_exclude_patterns": ["*.sublime-project", "*.md", "LICENSE"]
+		}
+	],
+	"settings":
+    {
+        "tab_size": 4
+    }
+}
