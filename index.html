@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html ng-app="taskGoogle">
+	<head>
+		<title>Google Tasks</title>
+
+		<meta charset="UTF-8">
+
+		<script type="text/javascript" src="js/lib/angular.min.js"></script>
+		<script type="text/javascript" src="js/i18n/angular-locale_pt-br.js"></script>
+		<script type="text/javascript" src="js/lib/angular.resource.min.js"></script>
+
+		<script type="text/javascript" src="js/app.js"></script>
+		<script type="text/javascript" src="js/service/connectGoogleWithDeferred.js"></script>
+		<script type="text/javascript" src="js/controller/main.js"></script>
+	</head>
+	<body ng-controller="main">
+		{{urlTeste | json}}
+	</body>
+</html>
