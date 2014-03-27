@@ -2,14 +2,26 @@
 	"folders":
 	[
 		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-project",
+				"*.md",
+				"LICENSE"
+			],
+			"folder_exclude_patterns":
+			[
+				".git"
+			],
 			"follow_symlinks": true,
-			"path": "C:\\wamp\\www\\AngularJS\\TaskGoogle",
-			"folder_exclude_patterns": [".git"],
-			"file_exclude_patterns": ["*.sublime-project", "*.md", "LICENSE"]
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\felipe.lopes\\Desktop\\Builder"
 		}
 	],
 	"settings":
-    {
-        "tab_size": 4
-    }
+	{
+		"tab_size": 4
+	}
 }

@@ -4,16 +4,88 @@
 		"selected_items":
 		[
 			[
+				"tas",
+				"taskScope"
+			],
+			[
+				"acco",
+				"accordion-group"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"def",
+				"deferTaskList"
+			],
+			[
+				"ob",
+				"objDefer"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"promis",
+				"promises"
+			],
+			[
+				"promi",
+				"promises"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"tasl",
+				"taskListObj"
+			],
+			[
+				"taskL",
+				"taskListObj"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"taskli",
+				"tasklist"
+			],
+			[
+				"tok",
+				"tokenAuthorized"
+			],
+			[
+				"get",
+				"getGoogleAPITaskRest"
+			],
+			[
+				"url",
+				"urlBase"
+			],
+			[
+				"R",
+				"RestAPI"
+			],
+			[
 				"defer",
 				"deferObj"
 			],
 			[
 				"conne",
 				"connectGoogle"
-			],
-			[
-				"get",
-				"getAccountToken"
 			],
 			[
 				"conn",
@@ -38,10 +110,6 @@
 			[
 				"acc",
 				"accountSettings"
-			],
-			[
-				"$sc",
-				"$scope	AngularJS(DI)"
 			],
 			[
 				"ca",
@@ -92,10 +160,6 @@
 				"carousel-inner"
 			],
 			[
-				"co",
-				"container"
-			],
-			[
 				"appe",
 				"appendTo"
 			],
@@ -130,10 +194,6 @@
 			[
 				"te",
 				"templatePopupOriginal"
-			],
-			[
-				"ob",
-				"obj2"
 			],
 			[
 				"app",
@@ -412,10 +472,6 @@
 				"transicoes"
 			],
 			[
-				"url",
-				"urlPrevious"
-			],
-			[
 				"w",
 				"whereAdd"
 			],
@@ -458,80 +514,16 @@
 			[
 				"ch",
 				"changeVisual"
-			],
-			[
-				"xI",
-				"xInitialTo"
-			],
-			[
-				"blockG",
-				"blockChangeTo"
-			],
-			[
-				"cha",
-				"changeMap"
-			],
-			[
-				"blockCha",
-				"blockChangeTo"
-			],
-			[
-				"gri",
-				"gridY"
-			],
-			[
-				"block",
-				"blockChangeTo"
-			],
-			[
-				"ti",
-				"tileBlock"
-			],
-			[
-				"grd",
-				"gridY"
-			],
-			[
-				"pa",
-				"pagina"
-			],
-			[
-				"eve",
-				"eventList"
-			],
-			[
-				"opca",
-				"opcaoEscolhida"
-			],
-			[
-				"media",
-				"mediaElement"
-			],
-			[
-				"type",
-				"typeEvent"
-			],
-			[
-				"pl",
-				"playerClickAudio"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/wamp/www/AngularJS/connectGoogleWithDeferred.js",
+			"file": "/C/Users/felipe.lopes/Desktop/Builder/Assets/js/directives/droppable/droppable.js",
 			"settings":
 			{
-				"buffer_size": 2265,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/service/connectGoogle.js",
-			"settings":
-			{
-				"buffer_size": 2161,
+				"buffer_size": 5209,
 				"line_ending": "Windows"
 			}
 		}
@@ -543,11 +535,23 @@
 		"selected_items":
 		[
 			[
-				"in",
+				"inst	",
 				"Package Control: Install Package"
 			],
 			[
 				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git c",
+				"Git: Commit…"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"in",
 				"Package Control: Install Package"
 			],
 			[
@@ -613,7 +617,30 @@
 	},
 	"file_history":
 	[
+		"/C/Users/felipe.lopes/Desktop/ComponentsAngularjs/index.html",
+		"/C/Users/felipe.lopes/Desktop/Builder/Assets/js/directives/backgroundSelector/backgroundSelector.js",
+		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/felipe.lopes/Desktop/Builder/Assets/js/directives/_canvas/canvasImagem.js",
+		"/C/Users/felipe.lopes/Desktop/ComponentsAngularjs/components/options/botao.html",
+		"/C/Users/felipe.lopes/Desktop/ComponentsAngularjs/components/views/botao.html",
 		"/C/wamp/www/AngularJS/TaskGoogle/index.html",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/controller/main.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/oauth/index.html",
+		"/C/wamp/www/AngularJS/TaskGoogle/css/styles.css",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/service/googleAPI.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/css/bootstrap.css",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/controller/tasklist.js",
+		"/C/wamp/www/editor/css/bootstrap.css",
+		"/C/wamp/www/AngularJS/TaskGoogle/oauth/index.htmlk",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/resource/tasklist.js",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.645/angular-1.2.14/angular.js",
+		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.935/angular-1.2.14/angular.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/resource/task.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/resources/tasklist.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/app.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/js/service/connectGoogle.js",
+		"/C/wamp/www/AngularJS/connectGoogleWithDeferred.js",
+		"/C/wamp/www/AngularJS/TaskGoogle/TaskGoogle.sublime-project",
 		"/C/wamp/www/AngularJS/TaskGoogle/js/service/connectGoogleWithDeferred.js",
 		"/C/wamp/www/AngularJS/Exemplo1/js/controller/main.js",
 		"/C/wamp/www/AngularJS/Exemplo1/js/service/connectGoogleWithDeferred.js",
@@ -636,7 +663,6 @@
 		"/C/wamp/www/editor/index.html",
 		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-		"/C/Users/felipe.lopes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/editor/html/app/popup_componentes.html",
 		"/C/wamp/www/HTML5/PlataformaMan/css/style.css",
 		"/C/wamp/www/HTML5/MilharDecimal/app.js",
@@ -658,7 +684,6 @@
 		"/C/wamp/www/editor/html/app/components/slider/templateSlider.html",
 		"/C/wamp/www/editor/js/app/components/imagem/CMP_Imagem.js",
 		"/C/wamp/www/editor/html/app/components/slider/templatePageConfiguracao.html",
-		"/C/wamp/www/editor/css/bootstrap.css",
 		"/C/wamp/www/editor/css/style.css",
 		"/C/wamp/www/editor/html/app/components/slider/popupConfiguracao.html",
 		"/C/wamp/www/editor/html/app/components/slider/pageConfiguracao.html",
@@ -719,28 +744,7 @@
 		"/C/wamp/www/_ProducaoHTML/js/CFS_mediaelement-and-player.min.js",
 		"/C/wamp/www/_ProducaoHTML/css/CFS_mediaelementplayer.css",
 		"/C/wamp/www/ComponentesEditor/Imagem/php/uploadImagem.php",
-		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Utils.js",
-		"/C/wamp/www/ComponentesEditor/Imagem/libs/css/PLG_Popup.css",
-		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.011/linuxdoom-1.10/d_main.c",
-		"/C/wamp/www/ComponentesEditor/Imagem/libs/js/PLG_Popup.js",
-		"/C/wamp/www/_ProducaoHTML/m_hum/hum_saber/CFS_hum_saber_estilo.css",
-		"/C/wamp/www/_ProducaoHTML/m_hum/hum_saber/CFS_hum_saber_00.html",
-		"/C/wamp/www/_ProducaoHTML/js/CFS_app.js",
-		"/C/wamp/www/_ProducaoHTML/css/CFS_estilo.css",
-		"/C/Users/felipe.lopes/Desktop/Comp/css/PLG_Popup.css",
-		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.194/index.html",
-		"/C/Users/FELIPE~1.LOP/AppData/Local/Temp/Rar$DRa0.048/_page.html",
-		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Base.js",
-		"/C/wamp/www/ComponentesEditor/Imagem/css/styles.css",
-		"/C/wamp/www/ComponentesEditor/Imagem/libs/js/PLG_Popup_Avaliativo.js",
-		"/C/wamp/www/ComponentesEditor/Imagem/dist/index.html",
-		"/C/wamp/www/ComponentesEditor/Imagem/dist/css/PLG_Popup.css",
-		"/C/wamp/www/ComponentesEditor/Imagem/php/uploadImagem.pgp",
-		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_11.html",
-		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_10.html",
-		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_09.html",
-		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_07.html",
-		"/D/Felipe/CentroFormacao/_ProducaoHTML/m_hum/hum_disciplinas/CFS_hum_disciplinas_08.html"
+		"/C/wamp/www/ComponentesEditor/Imagem/js/CMP_Utils.js"
 	],
 	"find":
 	{
@@ -751,6 +755,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -758,6 +763,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"scope-name",
+			"template_url",
+			"nome",
+			"h1",
+			"listTaskGoogle",
+			"taskListArray",
+			"$q",
+			"objDeferred",
+			"objDefer",
+			"tasklist",
 			"connectGoogle",
 			";",
 			"white",
@@ -875,17 +890,7 @@
 			"x",
 			"Bloco",
 			"Block",
-			"cor",
-			"tipo",
-			"combinacao",
-			"QTDE_typeS",
-			"tipo",
-			"TIPO",
-			"tipo",
-			"this.map",
-			"this",
-			"task",
-			"slider"
+			"cor"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -904,62 +909,78 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/wamp/www/AngularJS/connectGoogleWithDeferred.js",
+					"file": "/C/Users/felipe.lopes/Desktop/Builder/Assets/js/directives/droppable/droppable.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2265,
+						"buffer_size": 5209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3461,
+								3461
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/service/connectGoogle.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2161,
-						"regions":
-						{
-						},
-						"selection":
-						[
+							"BracketHighlighterBusy": false,
+							"bh_regions":
 							[
-								700,
-								700
-							]
-						],
-						"settings":
-						{
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1006,6 +1027,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
 	},
 	"project": "TaskGoogle.sublime-project",
 	"replace":

@@ -5,15 +5,70 @@
 
 		<meta charset="UTF-8">
 
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+
 		<script type="text/javascript" src="js/lib/angular.min.js"></script>
-		<script type="text/javascript" src="js/i18n/angular-locale_pt-br.js"></script>
 		<script type="text/javascript" src="js/lib/angular.resource.min.js"></script>
+		<script type="text/javascript" src="js/lib/ui-bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/i18n/angular-locale_pt-br.js"></script>
 
 		<script type="text/javascript" src="js/app.js"></script>
-		<script type="text/javascript" src="js/service/connectGoogleWithDeferred.js"></script>
+		<script type="text/javascript" src="js/service/googleAPI.js"></script>
+		<script type="text/javascript" src="js/resource/tasklist.js"></script>
+		<script type="text/javascript" src="js/resource/task.js"></script>
 		<script type="text/javascript" src="js/controller/main.js"></script>
 	</head>
-	<body ng-controller="main">
-		{{urlTeste | json}}
+	<body>
+
+		<div class="row-fluid container">
+			<div class="page-header">
+				<h1 class="text-right"><small>...an app to do simple things.</small> Taskgle</h1>
+			</div>
+			
+			<div class="row-fluid">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<div class="row" ng-controller="main">
+						<div class="col-lg-12 col-md-12 col-sm-12" ng-show="!loadStructure || (loadStructure && (listTaskGoogle.length == 0))">
+							<div class="panel panel-default" style="padding: 250px 0px 0px 0px" ng-hide="loadStructure">
+								<div class="ajaxloader"></div>
+								<p class="text-center" style="margin-top: -120px">Carregando...</p>
+							</div>
+
+							<div class="panel panel-default" ng-show="loadStructure && (listTaskGoogle.length == 0)" >
+								<p class="text-center">Não há lista de tarefas.</p>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-4 col-sm-5">
+							<ul class="list-group">
+								<a href="#" ng-repeat="tasklist in listTaskGoogle" ng-click="taskListItemClicked($index)" ng-class="{'list-group-item': true}">
+									<span ng-show="$index == selectTasklistIndex" class="glyphicon glyphicon-chevron-right"></span>
+									<span class="badge badge-error">{{tasklist.tasks.length}}</span>
+									{{tasklist.name}}
+								</a>
+							</ul>
+						</div>
+						
+						<div class="col-lg-9 col-md-8 col-sm-7" ng-show="loadStructure">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<strong >Lista de Tarefas: {{listTaskGoogle[selectTasklistIndex].name}}</strong>
+								</div>
+
+								<ul class="list-group">
+									<a href="#" ng-repeat="task in listTaskGoogle[selectTasklistIndex].tasks" class="list-group-item">
+										<input class="" type="checkbox">
+										{{task.name}}
+									</a>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
 	</body>
 </html>
